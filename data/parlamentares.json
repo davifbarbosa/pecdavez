@@ -1,0 +1,2231 @@
+{
+    "deputados": [
+        {
+            "nome": "Abilio Brunini",
+            "partido": "PL",
+            "estado": "MT",
+            "foto": "imagens/Abilio_Brunini_(PL-MT)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Adail Filho",
+            "partido": "REPUBLICANOS",
+            "estado": "AM",
+            "foto": "imagens/Adail_Filho_(REPUBLICANOS-AM)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Adilson Barroso",
+            "partido": "PL",
+            "estado": "SP",
+            "foto": "imagens/Adilson_Barroso_(PL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Adolfo Viana",
+            "partido": "PSDB",
+            "estado": "BA",
+            "foto": "imagens/Adolfo_Viana_(PSDB-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Adriana Ventura",
+            "partido": "NOVO",
+            "estado": "SP",
+            "foto": "imagens/Adriana_Ventura_(NOVO-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Afonso Hamm",
+            "partido": "PP",
+            "estado": "RS",
+            "foto": "imagens/Afonso_Hamm_(PP-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Afonso Motta",
+            "partido": "PDT",
+            "estado": "RS",
+            "foto": "imagens/Afonso_Motta_(PDT-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Aguinaldo Ribeiro",
+            "partido": "PP",
+            "estado": "PB",
+            "foto": "imagens/Aguinaldo_Ribeiro_(PP-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Airton Faleiro",
+            "partido": "PT",
+            "estado": "PA",
+            "foto": "imagens/Airton_Faleiro_(PT-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "AJ Albuquerque",
+            "partido": "PP",
+            "estado": "CE",
+            "foto": "imagens/AJ_Albuquerque_(PP-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alberto Fraga",
+            "partido": "PL",
+            "estado": "DF",
+            "foto": "imagens/Alberto_Fraga_(PL-DF)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alceu Moreira",
+            "partido": "MDB",
+            "estado": "RS",
+            "foto": "imagens/Alceu_Moreira_(MDB-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alencar Santana",
+            "partido": "PT",
+            "estado": "SP",
+            "foto": "imagens/Alencar_Santana_(PT-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alexandre Leite",
+            "partido": "UNIAO",
+            "estado": "SP",
+            "foto": "imagens/Alexandre_Leite_(UNIAO-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alexandre Lindenmeyer",
+            "partido": "PT",
+            "estado": "RS",
+            "foto": "imagens/Alexandre_Lindenmeyer_(PT-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alex Manente",
+            "partido": "CIDADANIA",
+            "estado": "SP",
+            "foto": "imagens/Alex_Manente_(CIDADANIA-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alex Santana",
+            "partido": "REPUBLICANOS",
+            "estado": "BA",
+            "foto": "imagens/Alex_Santana_(REPUBLICANOS-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alfredo Gaspar",
+            "partido": "UNIAO",
+            "estado": "AL",
+            "foto": "imagens/Alfredo_Gaspar_(UNIAO-AL)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Alice Portugal",
+            "partido": "PCdoB",
+            "estado": "BA",
+            "foto": "imagens/Alice_Portugal_(PCdoB-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Aliel Machado",
+            "partido": "PV",
+            "estado": "PR",
+            "foto": "imagens/Aliel_Machado_(PV-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Aluisio Mendes",
+            "partido": "REPUBLICANOS",
+            "estado": "MA",
+            "foto": "imagens/Aluisio_Mendes_(REPUBLICANOS-MA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Amanda Gentil",
+            "partido": "PP",
+            "estado": "MA",
+            "foto": "imagens/Amanda_Gentil_(PP-MA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Amaro Neto",
+            "partido": "REPUBLICANOS",
+            "estado": "ES",
+            "foto": "imagens/Amaro_Neto_(REPUBLICANOS-ES)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Amom Mandel",
+            "partido": "CIDADANIA",
+            "estado": "AM",
+            "foto": "imagens/Amom_Mandel_(CIDADANIA-AM)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ana Pimentel",
+            "partido": "PT",
+            "estado": "MG",
+            "foto": "imagens/Ana_Pimentel_(PT-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Andreia Siqueira",
+            "partido": "MDB",
+            "estado": "PA",
+            "foto": "imagens/Andreia_Siqueira_(MDB-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Antonio Andrade",
+            "partido": "REPUBLICANOS",
+            "estado": "TO",
+            "foto": "imagens/Antonio_Andrade_(REPUBLICANOS-TO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Antonio Brito",
+            "partido": "PSD",
+            "estado": "BA",
+            "foto": "imagens/Antonio_Brito_(PSD-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Any Ortiz",
+            "partido": "CIDADANIA",
+            "estado": "RS",
+            "foto": "imagens/Any_Ortiz_(CIDADANIA-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Arlindo Chinaglia",
+            "partido": "PT",
+            "estado": "SP",
+            "foto": "imagens/Arlindo_Chinaglia_(PT-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Arnaldo Jardim",
+            "partido": "CIDADANIA",
+            "estado": "SP",
+            "foto": "imagens/Arnaldo_Jardim_(CIDADANIA-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Arthur Lira",
+            "partido": "PP",
+            "estado": "AL",
+            "foto": "imagens/Arthur_Lira_(PP-AL)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Augusto Coutinho",
+            "partido": "REPUBLICANOS",
+            "estado": "PE",
+            "foto": "imagens/Augusto_Coutinho_(REPUBLICANOS-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Augusto Puppio",
+            "partido": "MDB",
+            "estado": "AP",
+            "foto": "imagens/Augusto_Puppio_(MDB-AP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Aureo Ribeiro",
+            "partido": "SOLIDARIEDADE",
+            "estado": "RJ",
+            "foto": "imagens/Aureo_Ribeiro_(SOLIDARIEDADE-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Baleia Rossi",
+            "partido": "MDB",
+            "estado": "SP",
+            "foto": "imagens/Baleia_Rossi_(MDB-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Beto Pereira",
+            "partido": "PSDB",
+            "estado": "MS",
+            "foto": "imagens/Beto_Pereira_(PSDB-MS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Beto Preto",
+            "partido": "PSD",
+            "estado": "PR",
+            "foto": "imagens/Beto_Preto_(PSD-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Beto Richa",
+            "partido": "PSDB",
+            "estado": "PR",
+            "foto": "imagens/Beto_Richa_(PSDB-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Bia Kicis",
+            "partido": "PL",
+            "estado": "DF",
+            "foto": "imagens/Bia_Kicis_(PL-DF)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Bibo Nunes",
+            "partido": "PL",
+            "estado": "RS",
+            "foto": "imagens/Bibo_Nunes_(PL-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Bohn Gass",
+            "partido": "PT",
+            "estado": "RS",
+            "foto": "imagens/Bohn_Gass_(PT-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Bruno Farias",
+            "partido": "AVANTE",
+            "estado": "MG",
+            "foto": "imagens/Bruno_Farias_(AVANTE-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Bruno Ganem",
+            "partido": "PODE",
+            "estado": "SP",
+            "foto": "imagens/Bruno_Ganem_(PODE-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Camila Jara",
+            "partido": "PT",
+            "estado": "MS",
+            "foto": "imagens/Camila_Jara_(PT-MS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Carla Zambelli",
+            "partido": "PL",
+            "estado": "SP",
+            "foto": "imagens/Carla_Zambelli_(PL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Carlos Chiodini",
+            "partido": "MDB",
+            "estado": "SC",
+            "foto": "imagens/Carlos_Chiodini_(MDB-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Carlos Jordy",
+            "partido": "PL",
+            "estado": "RJ",
+            "foto": "imagens/Carlos_Jordy_(PL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Carlos Sampaio",
+            "partido": "PSD",
+            "estado": "SP",
+            "foto": "imagens/Carlos_Sampaio_(PSD-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Carlos Veras",
+            "partido": "PT",
+            "estado": "PE",
+            "foto": "imagens/Carlos_Veras_(PT-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Carlos Zarattini",
+            "partido": "PT",
+            "estado": "SP",
+            "foto": "imagens/Carlos_Zarattini_(PT-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Carmen Zanotto",
+            "partido": "CIDADANIA",
+            "estado": "SC",
+            "foto": "imagens/Carmen_Zanotto_(CIDADANIA-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Carol Dartora",
+            "partido": "PT",
+            "estado": "PR",
+            "foto": "imagens/Carol_Dartora_(PT-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Castro Neto",
+            "partido": "PSD",
+            "estado": "PI",
+            "foto": "imagens/Castro_Neto_(PSD-PI)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Celso Russomanno",
+            "partido": "REPUBLICANOS",
+            "estado": "SP",
+            "foto": "imagens/Celso_Russomanno_(REPUBLICANOS-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Charles Fernandes",
+            "partido": "PSD",
+            "estado": "BA",
+            "foto": "imagens/Charles_Fernandes_(PSD-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Chico Alencar",
+            "partido": "PSOL",
+            "estado": "RJ",
+            "foto": "imagens/Chico_Alencar_(PSOL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Chris Tonietto",
+            "partido": "PL",
+            "estado": "RJ",
+            "foto": "imagens/Chris_Tonietto_(PL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Claudio Cajado",
+            "partido": "PP",
+            "estado": "BA",
+            "foto": "imagens/Claudio_Cajado_(PP-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Cleber Verde",
+            "partido": "MDB",
+            "estado": "MA",
+            "foto": "imagens/Cleber_Verde_(MDB-MA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Coronel Assis",
+            "partido": "UNIAO",
+            "estado": "MT",
+            "foto": "imagens/Coronel_Assis_(UNIAO-MT)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Coronel Fernanda",
+            "partido": "PL",
+            "estado": "MT",
+            "foto": "imagens/Coronel_Fernanda_(PL-MT)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Coronel Meira",
+            "partido": "PL",
+            "estado": "PE",
+            "foto": "imagens/Coronel_Meira_(PL-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Coronel Ulysses",
+            "partido": "UNIAO",
+            "estado": "AC",
+            "foto": "imagens/Coronel_Ulysses_(UNIAO-AC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Covatti Filho",
+            "partido": "PP",
+            "estado": "RS",
+            "foto": "imagens/Covatti_Filho_(PP-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Cristiane Lopes",
+            "partido": "UNIAO",
+            "estado": "RO",
+            "foto": "imagens/Cristiane_Lopes_(UNIAO-RO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dagoberto Nogueira",
+            "partido": "PSDB",
+            "estado": "MS",
+            "foto": "imagens/Dagoberto_Nogueira_(PSDB-MS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Daiana Santos",
+            "partido": "PCdoB",
+            "estado": "RS",
+            "foto": "imagens/Daiana_Santos_(PCdoB-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dal Barreto",
+            "partido": "UNIAO",
+            "estado": "BA",
+            "foto": "imagens/Dal_Barreto_(UNIAO-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Daniela Reinehr",
+            "partido": "PL",
+            "estado": "SC",
+            "foto": "imagens/Daniela_Reinehr_(PL-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Daniel Agrobom",
+            "partido": "PL",
+            "estado": "GO",
+            "foto": "imagens/Daniel_Agrobom_(PL-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Daniel Almeida",
+            "partido": "PCdoB",
+            "estado": "BA",
+            "foto": "imagens/Daniel_Almeida_(PCdoB-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Daniel Barbosa",
+            "partido": "PP",
+            "estado": "AL",
+            "foto": "imagens/Daniel_Barbosa_(PP-AL)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Daniel Freitas",
+            "partido": "PL",
+            "estado": "SC",
+            "foto": "imagens/Daniel_Freitas_(PL-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Daniel Trzeciak",
+            "partido": "PSDB",
+            "estado": "RS",
+            "foto": "imagens/Daniel_Trzeciak_(PSDB-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Danilo Forte",
+            "partido": "UNIAO",
+            "estado": "CE",
+            "foto": "imagens/Danilo_Forte_(UNIAO-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dani Cunha",
+            "partido": "UNIAO",
+            "estado": "RJ",
+            "foto": "imagens/Dani_Cunha_(UNIAO-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "David Soares",
+            "partido": "UNIAO",
+            "estado": "SP",
+            "foto": "imagens/David_Soares_(UNIAO-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dayany Bittencourt",
+            "partido": "UNIAO",
+            "estado": "CE",
+            "foto": "imagens/Dayany_Bittencourt_(UNIAO-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Da Vitoria",
+            "partido": "PP",
+            "estado": "ES",
+            "foto": "imagens/Da_Vitoria_(PP-ES)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Delegada Ione",
+            "partido": "AVANTE",
+            "estado": "MG",
+            "foto": "imagens/Delegada_Ione_(AVANTE-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Delegada Katarina",
+            "partido": "PSD",
+            "estado": "SE",
+            "foto": "imagens/Delegada_Katarina_(PSD-SE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Delegado Caveira",
+            "partido": "PL",
+            "estado": "PA",
+            "foto": "imagens/Delegado_Caveira_(PL-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Delegado Palumbo",
+            "partido": "MDB",
+            "estado": "SP",
+            "foto": "imagens/Delegado_Palumbo_(MDB-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Delegado Ramagem",
+            "partido": "PL",
+            "estado": "RJ",
+            "foto": "imagens/Delegado_Ramagem_(PL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Diego Andrade",
+            "partido": "PSD",
+            "estado": "MG",
+            "foto": "imagens/Diego_Andrade_(PSD-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Diego Coronel",
+            "partido": "PSD",
+            "estado": "BA",
+            "foto": "imagens/Diego_Coronel_(PSD-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Diego Garcia",
+            "partido": "REPUBLICANOS",
+            "estado": "PR",
+            "foto": "imagens/Diego_Garcia_(REPUBLICANOS-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dilceu Sperafico",
+            "partido": "PP",
+            "estado": "PR",
+            "foto": "imagens/Dilceu_Sperafico_(PP-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dilvanda Faro",
+            "partido": "PT",
+            "estado": "PA",
+            "foto": "imagens/Dilvanda_Faro_(PT-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dimas Fabiano",
+            "partido": "PP",
+            "estado": "MG",
+            "foto": "imagens/Dimas_Fabiano_(PP-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dimas Gadelha",
+            "partido": "PT",
+            "estado": "RJ",
+            "foto": "imagens/Dimas_Gadelha_(PT-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Domingos Neto",
+            "partido": "PSD",
+            "estado": "CE",
+            "foto": "imagens/Domingos_Neto_(PSD-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Dorinaldo Malafaia",
+            "partido": "PDT",
+            "estado": "AP",
+            "foto": "imagens/Dorinaldo_Malafaia_(PDT-AP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Douglas Viegas",
+            "partido": "UNIAO",
+            "estado": "SP",
+            "foto": "imagens/Douglas_Viegas_(UNIAO-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Doutor Luizinho",
+            "partido": "PP",
+            "estado": "RJ",
+            "foto": "imagens/Doutor_Luizinho_(PP-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Duda Ramos",
+            "partido": "MDB",
+            "estado": "RR",
+            "foto": "imagens/Duda_Ramos_(MDB-RR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Duda Salabert",
+            "partido": "PDT",
+            "estado": "MG",
+            "foto": "imagens/Duda_Salabert_(PDT-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Eduardo Bismarck",
+            "partido": "PDT",
+            "estado": "CE",
+            "foto": "imagens/Eduardo_Bismarck_(PDT-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Eduardo Bolsonaro",
+            "partido": "PL",
+            "estado": "SP",
+            "foto": "imagens/Eduardo_Bolsonaro_(PL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Eduardo Velloso",
+            "partido": "UNIAO",
+            "estado": "AC",
+            "foto": "imagens/Eduardo_Velloso_(UNIAO-AC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Elcione Barbalho",
+            "partido": "MDB",
+            "estado": "PA",
+            "foto": "imagens/Elcione_Barbalho_(MDB-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Elisangela Araujo",
+            "partido": "PT",
+            "estado": "BA",
+            "foto": "imagens/Elisangela_Araujo_(PT-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Eli Borges",
+            "partido": "PL",
+            "estado": "TO",
+            "foto": "imagens/Eli_Borges_(PL-TO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Elmar Nascimento",
+            "partido": "UNIAO",
+            "estado": "BA",
+            "foto": "imagens/Elmar_Nascimento_(UNIAO-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ely Santos",
+            "partido": "REPUBLICANOS",
+            "estado": "SP",
+            "foto": "imagens/Ely_Santos_(REPUBLICANOS-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Emidinho Madeira",
+            "partido": "PL",
+            "estado": "MG",
+            "foto": "imagens/Emidinho_Madeira_(PL-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Eriberto Medeiros",
+            "partido": "PSB",
+            "estado": "PE",
+            "foto": "imagens/Eriberto_Medeiros_(PSB-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Erika Hilton",
+            "partido": "PSOL",
+            "estado": "SP",
+            "foto": "imagens/Erika_Hilton_(PSOL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Erika Kokay",
+            "partido": "PT",
+            "estado": "DF",
+            "foto": "imagens/Erika_Kokay_(PT-DF)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Eros Biondini",
+            "partido": "PL",
+            "estado": "MG",
+            "foto": "imagens/Eros_Biondini_(PL-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Euclydes Pettersen",
+            "partido": "REPUBLICANOS",
+            "estado": "MG",
+            "foto": "imagens/Euclydes_Pettersen_(REPUBLICANOS-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fabio Schiochet",
+            "partido": "UNIAO",
+            "estado": "SC",
+            "foto": "imagens/Fabio_Schiochet_(UNIAO-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fausto Pinato",
+            "partido": "PP",
+            "estado": "SP",
+            "foto": "imagens/Fausto_Pinato_(PP-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Felipe Carreras",
+            "partido": "PSB",
+            "estado": "PE",
+            "foto": "imagens/Felipe_Carreras_(PSB-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Felipe Francischini",
+            "partido": "UNIAO",
+            "estado": "PR",
+            "foto": "imagens/Felipe_Francischini_(UNIAO-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fernanda Melchionna",
+            "partido": "PSOL",
+            "estado": "RS",
+            "foto": "imagens/Fernanda_Melchionna_(PSOL-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fernanda Pessoa",
+            "partido": "UNIAO",
+            "estado": "CE",
+            "foto": "imagens/Fernanda_Pessoa_(UNIAO-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fernando Mineiro",
+            "partido": "PT",
+            "estado": "RN",
+            "foto": "imagens/Fernando_Mineiro_(PT-RN)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fernando Monteiro",
+            "partido": "PP",
+            "estado": "PE",
+            "foto": "imagens/Fernando_Monteiro_(PP-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fernando Rodolfo",
+            "partido": "PL",
+            "estado": "PE",
+            "foto": "imagens/Fernando_Rodolfo_(PL-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Filipe Barros",
+            "partido": "PL",
+            "estado": "PR",
+            "foto": "imagens/Filipe_Barros_(PL-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Filipe Martins",
+            "partido": "PL",
+            "estado": "TO",
+            "foto": "imagens/Filipe_Martins_(PL-TO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Florentino Neto",
+            "partido": "PT",
+            "estado": "PI",
+            "foto": "imagens/Florentino_Neto_(PT-PI)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Franciane Bayer",
+            "partido": "REPUBLICANOS",
+            "estado": "RS",
+            "foto": "imagens/Franciane_Bayer_(REPUBLICANOS-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fred Costa",
+            "partido": "PRD",
+            "estado": "MG",
+            "foto": "imagens/Fred_Costa_(PRD-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Fred Linhares",
+            "partido": "REPUBLICANOS",
+            "estado": "DF",
+            "foto": "imagens/Fred_Linhares_(REPUBLICANOS-DF)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gabriel Mota",
+            "partido": "REPUBLICANOS",
+            "estado": "RR",
+            "foto": "imagens/Gabriel_Mota_(REPUBLICANOS-RR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gabriel Nunes",
+            "partido": "PSD",
+            "estado": "BA",
+            "foto": "imagens/Gabriel_Nunes_(PSD-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "General Pazuello",
+            "partido": "PL",
+            "estado": "RJ",
+            "foto": "imagens/General_Pazuello_(PL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Geraldo Resende",
+            "partido": "PSDB",
+            "estado": "MS",
+            "foto": "imagens/Geraldo_Resende_(PSDB-MS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gerlen Diniz",
+            "partido": "PP",
+            "estado": "AC",
+            "foto": "imagens/Gerlen_Diniz_(PP-AC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gilberto Abramo",
+            "partido": "REPUBLICANOS",
+            "estado": "MG",
+            "foto": "imagens/Gilberto_Abramo_(REPUBLICANOS-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gilberto Nascimento",
+            "partido": "PSD",
+            "estado": "SP",
+            "foto": "imagens/Gilberto_Nascimento_(PSD-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gilson Daniel",
+            "partido": "PODE",
+            "estado": "ES",
+            "foto": "imagens/Gilson_Daniel_(PODE-ES)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gilson Marques",
+            "partido": "NOVO",
+            "estado": "SC",
+            "foto": "imagens/Gilson_Marques_(NOVO-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gilvan Maximo",
+            "partido": "REPUBLICANOS",
+            "estado": "DF",
+            "foto": "imagens/Gilvan_Maximo_(REPUBLICANOS-DF)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Giovani Cherini",
+            "partido": "PL",
+            "estado": "RS",
+            "foto": "imagens/Giovani_Cherini_(PL-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gisela Simona",
+            "partido": "UNIAO",
+            "estado": "MT",
+            "foto": "imagens/Gisela_Simona_(UNIAO-MT)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Glauber Braga",
+            "partido": "PSOL",
+            "estado": "RJ",
+            "foto": "imagens/Glauber_Braga_(PSOL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gleisi Hoffmann",
+            "partido": "PT",
+            "estado": "PR",
+            "foto": "imagens/Gleisi_Hoffmann_(PT-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Greyce Elias",
+            "partido": "AVANTE",
+            "estado": "MG",
+            "foto": "imagens/Greyce_Elias_(AVANTE-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Guilherme Boulos",
+            "partido": "PSOL",
+            "estado": "SP",
+            "foto": "imagens/Guilherme_Boulos_(PSOL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Guilherme Uchoa",
+            "partido": "PSB",
+            "estado": "PE",
+            "foto": "imagens/Guilherme_Uchoa_(PSB-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gustavo Gayer",
+            "partido": "PL",
+            "estado": "GO",
+            "foto": "imagens/Gustavo_Gayer_(PL-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gustinho Ribeiro",
+            "partido": "REPUBLICANOS",
+            "estado": "SE",
+            "foto": "imagens/Gustinho_Ribeiro_(REPUBLICANOS-SE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Gutemberg Reis",
+            "partido": "MDB",
+            "estado": "RJ",
+            "foto": "imagens/Gutemberg_Reis_(MDB-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Heitor Schuch",
+            "partido": "PSB",
+            "estado": "RS",
+            "foto": "imagens/Heitor_Schuch_(PSB-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Helena Lima",
+            "partido": "MDB",
+            "estado": "RR",
+            "foto": "imagens/Helena_Lima_(MDB-RR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Helio Lopes",
+            "partido": "PL",
+            "estado": "RJ",
+            "foto": "imagens/Helio_Lopes_(PL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Henderson Pinto",
+            "partido": "MDB",
+            "estado": "PA",
+            "foto": "imagens/Henderson_Pinto_(MDB-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Hugo Leal",
+            "partido": "PSD",
+            "estado": "RJ",
+            "foto": "imagens/Hugo_Leal_(PSD-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Hugo Motta",
+            "partido": "REPUBLICANOS",
+            "estado": "PB",
+            "foto": "imagens/Hugo_Motta_(REPUBLICANOS-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Idilvan Alencar",
+            "partido": "PDT",
+            "estado": "CE",
+            "foto": "imagens/Idilvan_Alencar_(PDT-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Igor Timo",
+            "partido": "PSD",
+            "estado": "MG",
+            "foto": "imagens/Igor_Timo_(PSD-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ismael Alexandrino",
+            "partido": "PSD",
+            "estado": "GO",
+            "foto": "imagens/Ismael_Alexandrino_(PSD-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ivan Valente",
+            "partido": "PSOL",
+            "estado": "SP",
+            "foto": "imagens/Ivan_Valente_(PSOL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ivoneide Caetano",
+            "partido": "PT",
+            "estado": "BA",
+            "foto": "imagens/Ivoneide_Caetano_(PT-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Iza Arruda",
+            "partido": "MDB",
+            "estado": "PE",
+            "foto": "imagens/Iza_Arruda_(MDB-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jack Rocha",
+            "partido": "PT",
+            "estado": "ES",
+            "foto": "imagens/Jack_Rocha_(PT-ES)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jadyel Alencar",
+            "partido": "REPUBLICANOS",
+            "estado": "PI",
+            "foto": "imagens/Jadyel_Alencar_(REPUBLICANOS-PI)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jandira Feghali",
+            "partido": "PCdoB",
+            "estado": "RJ",
+            "foto": "imagens/Jandira_Feghali_(PCdoB-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jeferson Rodrigues",
+            "partido": "REPUBLICANOS",
+            "estado": "GO",
+            "foto": "imagens/Jeferson_Rodrigues_(REPUBLICANOS-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jefferson Campos",
+            "partido": "PL",
+            "estado": "SP",
+            "foto": "imagens/Jefferson_Campos_(PL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jilmar Tatto",
+            "partido": "PT",
+            "estado": "SP",
+            "foto": "imagens/Jilmar_Tatto_(PT-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Joaquim Passarinho",
+            "partido": "PL",
+            "estado": "PA",
+            "foto": "imagens/Joaquim_Passarinho_(PL-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jonas Donizette",
+            "partido": "PSB",
+            "estado": "SP",
+            "foto": "imagens/Jonas_Donizette_(PSB-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jorge Braz",
+            "partido": "REPUBLICANOS",
+            "estado": "RJ",
+            "foto": "imagens/Jorge_Braz_(REPUBLICANOS-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jorge Goetten",
+            "partido": "REPUBLICANOS",
+            "estado": "SC",
+            "foto": "imagens/Jorge_Goetten_(REPUBLICANOS-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Jorge Solla",
+            "partido": "PT",
+            "estado": "BA",
+            "foto": "imagens/Jorge_Solla_(PT-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Joseildo Ramos",
+            "partido": "PT",
+            "estado": "BA",
+            "foto": "imagens/Joseildo_Ramos_(PT-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Josias Gomes",
+            "partido": "PT",
+            "estado": "BA",
+            "foto": "imagens/Josias_Gomes_(PT-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Josivaldo JP",
+            "partido": "PSD",
+            "estado": "MA",
+            "foto": "imagens/Josivaldo_JP_(PSD-MA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Juarez Costa",
+            "partido": "MDB",
+            "estado": "MT",
+            "foto": "imagens/Juarez_Costa_(MDB-MT)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Juliana Cardoso",
+            "partido": "PT",
+            "estado": "SP",
+            "foto": "imagens/Juliana_Cardoso_(PT-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Julia Zanatta",
+            "partido": "PL",
+            "estado": "SC",
+            "foto": "imagens/Julia_Zanatta_(PL-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Julio Arcoverde",
+            "partido": "PP",
+            "estado": "PI",
+            "foto": "imagens/Julio_Arcoverde_(PP-PI)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Julio Lopes",
+            "partido": "PP",
+            "estado": "RJ",
+            "foto": "imagens/Julio_Lopes_(PP-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Junio Amaral",
+            "partido": "PL",
+            "estado": "MG",
+            "foto": "imagens/Junio_Amaral_(PL-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Keniston Braga",
+            "partido": "MDB",
+            "estado": "PA",
+            "foto": "imagens/Keniston_Braga_(MDB-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Kiko Celeguim",
+            "partido": "PT",
+            "estado": "SP",
+            "foto": "imagens/Kiko_Celeguim_(PT-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Kim Kataguiri",
+            "partido": "UNIAO",
+            "estado": "SP",
+            "foto": "imagens/Kim_Kataguiri_(UNIAO-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Laura Carneiro",
+            "partido": "PSD",
+            "estado": "RJ",
+            "foto": "imagens/Laura_Carneiro_(PSD-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Leonardo Monteiro",
+            "partido": "PT",
+            "estado": "MG",
+            "foto": "imagens/Leonardo_Monteiro_(PT-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Leo Prates",
+            "partido": "PDT",
+            "estado": "BA",
+            "foto": "imagens/Leo_Prates_(PDT-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Lincoln Portela",
+            "partido": "PL",
+            "estado": "MG",
+            "foto": "imagens/Lincoln_Portela_(PL-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Lindbergh Farias",
+            "partido": "PT",
+            "estado": "RJ",
+            "foto": "imagens/Lindbergh_Farias_(PT-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Lucas Ramos",
+            "partido": "PSB",
+            "estado": "PE",
+            "foto": "imagens/Lucas_Ramos_(PSB-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Lucas Redecker",
+            "partido": "PSDB",
+            "estado": "RS",
+            "foto": "imagens/Lucas_Redecker_(PSDB-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luciano Amaral",
+            "partido": "PV",
+            "estado": "AL",
+            "foto": "imagens/Luciano_Amaral_(PV-AL)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luciano Bivar",
+            "partido": "UNIAO",
+            "estado": "PE",
+            "foto": "imagens/Luciano_Bivar_(UNIAO-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luciano Ducci",
+            "partido": "PSB",
+            "estado": "PR",
+            "foto": "imagens/Luciano_Ducci_(PSB-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luciano Vieira",
+            "partido": "REPUBLICANOS",
+            "estado": "RJ",
+            "foto": "imagens/Luciano_Vieira_(REPUBLICANOS-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Lucio Mosquini",
+            "partido": "MDB",
+            "estado": "RO",
+            "foto": "imagens/Lucio_Mosquini_(MDB-RO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luisa Canziani",
+            "partido": "PSD",
+            "estado": "PR",
+            "foto": "imagens/Luisa_Canziani_(PSD-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luiza Erundina",
+            "partido": "PSOL",
+            "estado": "SP",
+            "foto": "imagens/Luiza_Erundina_(PSOL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luizianne Lins",
+            "partido": "PT",
+            "estado": "CE",
+            "foto": "imagens/Luizianne_Lins_(PT-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luiz Couto",
+            "partido": "PT",
+            "estado": "PB",
+            "foto": "imagens/Luiz_Couto_(PT-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luiz Lima",
+            "partido": "PL",
+            "estado": "RJ",
+            "foto": "imagens/Luiz_Lima_(PL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Luiz Nishimori",
+            "partido": "PSD",
+            "estado": "PR",
+            "foto": "imagens/Luiz_Nishimori_(PSD-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Magda Mofatto",
+            "partido": "PRD",
+            "estado": "GO",
+            "foto": "imagens/Magda_Mofatto_(PRD-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marcelo Crivella",
+            "partido": "REPUBLICANOS",
+            "estado": "RJ",
+            "foto": "imagens/Marcelo_Crivella_(REPUBLICANOS-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marcelo Moraes",
+            "partido": "PL",
+            "estado": "RS",
+            "foto": "imagens/Marcelo_Moraes_(PL-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marcelo Queiroz",
+            "partido": "PP",
+            "estado": "RJ",
+            "foto": "imagens/Marcelo_Queiroz_(PP-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marcio Alvino",
+            "partido": "PL",
+            "estado": "SP",
+            "foto": "imagens/Marcio_Alvino_(PL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marcos Pereira",
+            "partido": "REPUBLICANOS",
+            "estado": "SP",
+            "foto": "imagens/Marcos_Pereira_(REPUBLICANOS-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marcos Pollon",
+            "partido": "PL",
+            "estado": "MS",
+            "foto": "imagens/Marcos_Pollon_(PL-MS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marcos Soares",
+            "partido": "UNIAO",
+            "estado": "RJ",
+            "foto": "imagens/Marcos_Soares_(UNIAO-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marcos Tavares",
+            "partido": "PDT",
+            "estado": "RJ",
+            "foto": "imagens/Marcos_Tavares_(PDT-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marco Brasil",
+            "partido": "PP",
+            "estado": "PR",
+            "foto": "imagens/Marco_Brasil_(PP-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Maria Arraes",
+            "partido": "SOLIDARIEDADE",
+            "estado": "PE",
+            "foto": "imagens/Maria_Arraes_(SOLIDARIEDADE-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Maria Rosas",
+            "partido": "REPUBLICANOS",
+            "estado": "SP",
+            "foto": "imagens/Maria_Rosas_(REPUBLICANOS-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Mario Frias",
+            "partido": "PL",
+            "estado": "SP",
+            "foto": "imagens/Mario_Frias_(PL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marreca Filho",
+            "partido": "PRD",
+            "estado": "MA",
+            "foto": "imagens/Marreca_Filho_(PRD-MA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Marussa Boldrin",
+            "partido": "MDB",
+            "estado": "GO",
+            "foto": "imagens/Marussa_Boldrin_(MDB-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Matheus Noronha",
+            "partido": "PL",
+            "estado": "CE",
+            "foto": "imagens/Matheus_Noronha_(PL-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Mauricio Marcon",
+            "partido": "PODE",
+            "estado": "RS",
+            "foto": "imagens/Mauricio_Marcon_(PODE-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Mauricio Neves",
+            "partido": "PP",
+            "estado": "SP",
+            "foto": "imagens/Mauricio_Neves_(PP-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Max Lemos",
+            "partido": "PDT",
+            "estado": "RJ",
+            "foto": "imagens/Max_Lemos_(PDT-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Meire Serafim",
+            "partido": "UNIAO",
+            "estado": "AC",
+            "foto": "imagens/Meire_Serafim_(UNIAO-AC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Merlong Solano",
+            "partido": "PT",
+            "estado": "PI",
+            "foto": "imagens/Merlong_Solano_(PT-PI)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Mersinho Lucena",
+            "partido": "PP",
+            "estado": "PB",
+            "foto": "imagens/Mersinho_Lucena_(PP-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Messias Donato",
+            "partido": "REPUBLICANOS",
+            "estado": "ES",
+            "foto": "imagens/Messias_Donato_(REPUBLICANOS-ES)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Miguel Lombardi",
+            "partido": "PL",
+            "estado": "SP",
+            "foto": "imagens/Miguel_Lombardi_(PL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Misael Varella",
+            "partido": "PSD",
+            "estado": "MG",
+            "foto": "imagens/Misael_Varella_(PSD-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Moses Rodrigues",
+            "partido": "UNIAO",
+            "estado": "CE",
+            "foto": "imagens/Moses_Rodrigues_(UNIAO-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Murillo Gouvea",
+            "partido": "UNIAO",
+            "estado": "RJ",
+            "foto": "imagens/Murillo_Gouvea_(UNIAO-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Murilo Galdino",
+            "partido": "REPUBLICANOS",
+            "estado": "PB",
+            "foto": "imagens/Murilo_Galdino_(REPUBLICANOS-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Nelson Barbudo",
+            "partido": "PL",
+            "estado": "MT",
+            "foto": "imagens/Nelson_Barbudo_(PL-MT)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Nely Aquino",
+            "partido": "PODE",
+            "estado": "MG",
+            "foto": "imagens/Nely_Aquino_(PODE-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Neto Carletto",
+            "partido": "PP",
+            "estado": "BA",
+            "foto": "imagens/Neto_Carletto_(PP-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Newton Bonin",
+            "partido": "UNIAO",
+            "estado": "PR",
+            "foto": "imagens/Newton_Bonin_(UNIAO-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Nikolas Ferreira",
+            "partido": "PL",
+            "estado": "MG",
+            "foto": "imagens/Nikolas_Ferreira_(PL-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Nilto Tatto",
+            "partido": "PT",
+            "estado": "SP",
+            "foto": "imagens/Nilto_Tatto_(PT-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Odair Cunha",
+            "partido": "PT",
+            "estado": "MG",
+            "foto": "imagens/Odair_Cunha_(PT-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Olival Marques",
+            "partido": "MDB",
+            "estado": "PA",
+            "foto": "imagens/Olival_Marques_(MDB-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Orlando Silva",
+            "partido": "PCdoB",
+            "estado": "SP",
+            "foto": "imagens/Orlando_Silva_(PCdoB-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Osmar Terra",
+            "partido": "MDB",
+            "estado": "RS",
+            "foto": "imagens/Osmar_Terra_(MDB-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ossesio Silva",
+            "partido": "REPUBLICANOS",
+            "estado": "PE",
+            "foto": "imagens/Ossesio_Silva_(REPUBLICANOS-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pastor Diniz",
+            "partido": "UNIAO",
+            "estado": "RR",
+            "foto": "imagens/Pastor_Diniz_(UNIAO-RR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pastor Eurico",
+            "partido": "PL",
+            "estado": "PE",
+            "foto": "imagens/Pastor_Eurico_(PL-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pastor Gil",
+            "partido": "PL",
+            "estado": "MA",
+            "foto": "imagens/Pastor_Gil_(PL-MA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Patrus Ananias",
+            "partido": "PT",
+            "estado": "MG",
+            "foto": "imagens/Patrus_Ananias_(PT-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Paulinho Freire",
+            "partido": "UNIAO",
+            "estado": "RN",
+            "foto": "imagens/Paulinho_Freire_(UNIAO-RN)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Paulo Azi",
+            "partido": "UNIAO",
+            "estado": "BA",
+            "foto": "imagens/Paulo_Azi_(UNIAO-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Paulo Folletto",
+            "partido": "PSB",
+            "estado": "ES",
+            "foto": "imagens/Paulo_Folletto_(PSB-ES)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Paulo Guedes",
+            "partido": "PT",
+            "estado": "MG",
+            "foto": "imagens/Paulo_Guedes_(PT-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Paulo Litro",
+            "partido": "PSD",
+            "estado": "PR",
+            "foto": "imagens/Paulo_Litro_(PSD-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pedro Aihara",
+            "partido": "PRD",
+            "estado": "MG",
+            "foto": "imagens/Pedro_Aihara_(PRD-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pedro Campos",
+            "partido": "PSB",
+            "estado": "PE",
+            "foto": "imagens/Pedro_Campos_(PSB-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pedro Lupion",
+            "partido": "PP",
+            "estado": "PR",
+            "foto": "imagens/Pedro_Lupion_(PP-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pedro Paulo",
+            "partido": "PSD",
+            "estado": "RJ",
+            "foto": "imagens/Pedro_Paulo_(PSD-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pedro Uczai",
+            "partido": "PT",
+            "estado": "SC",
+            "foto": "imagens/Pedro_Uczai_(PT-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Pedro Westphalen",
+            "partido": "PP",
+            "estado": "RS",
+            "foto": "imagens/Pedro_Westphalen_(PP-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Professora Goreth",
+            "partido": "PDT",
+            "estado": "AP",
+            "foto": "imagens/Professora_Goreth_(PDT-AP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Professor Alcides",
+            "partido": "PL",
+            "estado": "GO",
+            "foto": "imagens/Professor_Alcides_(PL-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rafael Brito",
+            "partido": "MDB",
+            "estado": "AL",
+            "foto": "imagens/Rafael_Brito_(MDB-AL)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rafael Prudente",
+            "partido": "MDB",
+            "estado": "DF",
+            "foto": "imagens/Rafael_Prudente_(MDB-DF)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rafael Simoes",
+            "partido": "UNIAO",
+            "estado": "MG",
+            "foto": "imagens/Rafael_Simoes_(UNIAO-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Raimundo Costa",
+            "partido": "PODE",
+            "estado": "BA",
+            "foto": "imagens/Raimundo_Costa_(PODE-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Raimundo Santos",
+            "partido": "PSD",
+            "estado": "PA",
+            "foto": "imagens/Raimundo_Santos_(PSD-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Reginaldo Lopes",
+            "partido": "PT",
+            "estado": "MG",
+            "foto": "imagens/Reginaldo_Lopes_(PT-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Reginete Bispo",
+            "partido": "PT",
+            "estado": "RS",
+            "foto": "imagens/Reginete_Bispo_(PT-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Reinhold Stephanes",
+            "partido": "PSD",
+            "estado": "PR",
+            "foto": "imagens/Reinhold_Stephanes_(PSD-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Renan Ferreirinha",
+            "partido": "PSD",
+            "estado": "RJ",
+            "foto": "imagens/Renan_Ferreirinha_(PSD-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Renata Abreu",
+            "partido": "PODE",
+            "estado": "SP",
+            "foto": "imagens/Renata_Abreu_(PODE-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Renilce Nicodemos",
+            "partido": "MDB",
+            "estado": "PA",
+            "foto": "imagens/Renilce_Nicodemos_(MDB-PA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Renildo Calheiros",
+            "partido": "PCdoB",
+            "estado": "PE",
+            "foto": "imagens/Renildo_Calheiros_(PCdoB-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ricardo Ayres",
+            "partido": "REPUBLICANOS",
+            "estado": "TO",
+            "foto": "imagens/Ricardo_Ayres_(REPUBLICANOS-TO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ricardo Guidi",
+            "partido": "PL",
+            "estado": "SC",
+            "foto": "imagens/Ricardo_Guidi_(PL-SC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ricardo Maia",
+            "partido": "MDB",
+            "estado": "BA",
+            "foto": "imagens/Ricardo_Maia_(MDB-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ricardo Salles",
+            "partido": "NOVO",
+            "estado": "SP",
+            "foto": "imagens/Ricardo_Salles_(NOVO-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ricardo Silva",
+            "partido": "PSD",
+            "estado": "SP",
+            "foto": "imagens/Ricardo_Silva_(PSD-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Roberta Roma",
+            "partido": "PL",
+            "estado": "BA",
+            "foto": "imagens/Roberta_Roma_(PL-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Roberto Duarte",
+            "partido": "REPUBLICANOS",
+            "estado": "AC",
+            "foto": "imagens/Roberto_Duarte_(REPUBLICANOS-AC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Robinson Faria",
+            "partido": "PL",
+            "estado": "RN",
+            "foto": "imagens/Robinson_Faria_(PL-RN)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rodolfo Nogueira",
+            "partido": "PL",
+            "estado": "MS",
+            "foto": "imagens/Rodolfo_Nogueira_(PL-MS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rodrigo Estacho",
+            "partido": "PSD",
+            "estado": "PR",
+            "foto": "imagens/Rodrigo_Estacho_(PSD-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rodrigo Gambale",
+            "partido": "PODE",
+            "estado": "SP",
+            "foto": "imagens/Rodrigo_Gambale_(PODE-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rodrigo Valadares",
+            "partido": "UNIAO",
+            "estado": "SE",
+            "foto": "imagens/Rodrigo_Valadares_(UNIAO-SE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Romero Rodrigues",
+            "partido": "PODE",
+            "estado": "PB",
+            "foto": "imagens/Romero_Rodrigues_(PODE-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ronaldo Nogueira",
+            "partido": "REPUBLICANOS",
+            "estado": "RS",
+            "foto": "imagens/Ronaldo_Nogueira_(REPUBLICANOS-RS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rosana Valle",
+            "partido": "PL",
+            "estado": "SP",
+            "foto": "imagens/Rosana_Valle_(PL-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rosangela Moro",
+            "partido": "UNIAO",
+            "estado": "SP",
+            "foto": "imagens/Rosangela_Moro_(UNIAO-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Roseana Sarney",
+            "partido": "MDB",
+            "estado": "MA",
+            "foto": "imagens/Roseana_Sarney_(MDB-MA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Rubens Otoni",
+            "partido": "PT",
+            "estado": "GO",
+            "foto": "imagens/Rubens_Otoni_(PT-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Ruy Carneiro",
+            "partido": "PODE",
+            "estado": "PB",
+            "foto": "imagens/Ruy_Carneiro_(PODE-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Samuel Viana",
+            "partido": "REPUBLICANOS",
+            "estado": "MG",
+            "foto": "imagens/Samuel_Viana_(REPUBLICANOS-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Sargento Fahur",
+            "partido": "PSD",
+            "estado": "PR",
+            "foto": "imagens/Sargento_Fahur_(PSD-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Sargento Portugal",
+            "partido": "PODE",
+            "estado": "RJ",
+            "foto": "imagens/Sargento_Portugal_(PODE-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Saullo Vianna",
+            "partido": "UNIAO",
+            "estado": "AM",
+            "foto": "imagens/Saullo_Vianna_(UNIAO-AM)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Saulo Pedroso",
+            "partido": "PSD",
+            "estado": "SP",
+            "foto": "imagens/Saulo_Pedroso_(PSD-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Sergio Souza",
+            "partido": "MDB",
+            "estado": "PR",
+            "foto": "imagens/Sergio_Souza_(MDB-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Sidney Leite",
+            "partido": "PSD",
+            "estado": "AM",
+            "foto": "imagens/Sidney_Leite_(PSD-AM)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Silvia Cristina",
+            "partido": "PP",
+            "estado": "RO",
+            "foto": "imagens/Silvia_Cristina_(PP-RO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Silvye Alves",
+            "partido": "UNIAO",
+            "estado": "GO",
+            "foto": "imagens/Silvye_Alves_(UNIAO-GO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Simone Marquetto",
+            "partido": "MDB",
+            "estado": "SP",
+            "foto": "imagens/Simone_Marquetto_(MDB-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Socorro Neri",
+            "partido": "PP",
+            "estado": "AC",
+            "foto": "imagens/Socorro_Neri_(PP-AC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Sonize Barbosa",
+            "partido": "PL",
+            "estado": "AP",
+            "foto": "imagens/Sonize_Barbosa_(PL-AP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Soraya Santos",
+            "partido": "PL",
+            "estado": "RJ",
+            "foto": "imagens/Soraya_Santos_(PL-RJ)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Stefano Aguiar",
+            "partido": "PSD",
+            "estado": "MG",
+            "foto": "imagens/Stefano_Aguiar_(PSD-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Tabata Amaral",
+            "partido": "PSB",
+            "estado": "SP",
+            "foto": "imagens/Tabata_Amaral_(PSB-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Tadeu Oliveira",
+            "partido": "PL",
+            "estado": "CE",
+            "foto": "imagens/Tadeu_Oliveira_(PL-CE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Tadeu Veneri",
+            "partido": "PT",
+            "estado": "PR",
+            "foto": "imagens/Tadeu_Veneri_(PT-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Thiago Flores",
+            "partido": "REPUBLICANOS",
+            "estado": "RO",
+            "foto": "imagens/Thiago_Flores_(REPUBLICANOS-RO)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Toninho Wandscheer",
+            "partido": "PP",
+            "estado": "PR",
+            "foto": "imagens/Toninho_Wandscheer_(PP-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Vander Loubet",
+            "partido": "PT",
+            "estado": "MS",
+            "foto": "imagens/Vander_Loubet_(PT-MS)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Vinicius Carvalho",
+            "partido": "REPUBLICANOS",
+            "estado": "SP",
+            "foto": "imagens/Vinicius_Carvalho_(REPUBLICANOS-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Vinicius Gurgel",
+            "partido": "PL",
+            "estado": "AP",
+            "foto": "imagens/Vinicius_Gurgel_(PL-AP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Vitor Lippi",
+            "partido": "PSDB",
+            "estado": "SP",
+            "foto": "imagens/Vitor_Lippi_(PSDB-SP)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Waldemar Oliveira",
+            "partido": "AVANTE",
+            "estado": "PE",
+            "foto": "imagens/Waldemar_Oliveira_(AVANTE-PE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Waldenor Pereira",
+            "partido": "PT",
+            "estado": "BA",
+            "foto": "imagens/Waldenor_Pereira_(PT-BA)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Weliton Prado",
+            "partido": "SOLIDARIEDADE",
+            "estado": "MG",
+            "foto": "imagens/Weliton_Prado_(SOLIDARIEDADE-MG)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Wellington Roberto",
+            "partido": "PL",
+            "estado": "PB",
+            "foto": "imagens/Wellington_Roberto_(PL-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Wilson Santiago",
+            "partido": "REPUBLICANOS",
+            "estado": "PB",
+            "foto": "imagens/Wilson_Santiago_(REPUBLICANOS-PB)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Yandra Moura",
+            "partido": "UNIAO",
+            "estado": "SE",
+            "foto": "imagens/Yandra_Moura_(UNIAO-SE)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Zeca Dirceu",
+            "partido": "PT",
+            "estado": "PR",
+            "foto": "imagens/Zeca_Dirceu_(PT-PR)_Em_exercício.jpg",
+            "voto": "Assinou"
+        },
+        {
+            "nome": "Zezinho Barbary",
+            "partido": "PP",
+            "estado": "AC",
+            "foto": "imagens/Zezinho_Barbary_(PP-AC)_Em_exercício.jpg",
+            "voto": "Assinou"
+        }
+    ],
+    "senadores": []
+}

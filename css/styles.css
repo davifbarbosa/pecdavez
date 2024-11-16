@@ -1,0 +1,229 @@
+header {
+    background-color: #d9e1e9;
+    padding: 1px 1px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 0px;
+    padding: 0;    
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333; /* Cinza escuro para boa leitura */
+}
+
+h1 {
+    color: #303030;
+    font-size: 24px;
+}
+
+h2 {
+    color: #363636;
+    font-size: 19px;
+}
+
+h3 {
+    color: #363636;
+    font-size: 12px;
+}
+
+#filtro-nav {
+    margin-bottom: 15px;
+}
+
+.filtro {
+    margin: 5px;
+    margin-top: 20px;
+    padding: 8px 12px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 0;   
+    border: 0;
+}
+
+.filtro:hover {
+    background-color: #d6d6d6; /* Altere a cor do fundo */
+    transform: scale(1.05); /* Adicione um leve aumento de tamanho */
+    transition: background-color 0.3s ease, transform 0.2s; /* Suavizar a transição */
+}
+
+
+.filtro.ativo {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Estilizando o contêiner pai */
+.container {
+    display: flex; /* Ativa o Flexbox */
+    flex-direction: column; /* Alinha os filhos verticalmente */
+    align-items: center; /* Centraliza os elementos horizontalmente */
+    width: 100%; /* Garante que ocupe a largura total da tela */
+}
+
+/* Elementos filhos (estado-selector e parlamentares-container) */
+#estado-selector, #parlamentares-container {
+    width: 80%; /* Ambos terão 80% da largura do contêiner pai */
+    max-width: 1200px; /* Limite máximo para evitar que fiquem grandes demais */
+    margin-bottom: 20px; /* Espaço entre eles */
+    box-sizing: border-box; /* Inclui padding e borda no cálculo da largura */
+}
+
+/* Ajustando a responsividade */
+@media (max-width: 768px) {
+    #estado-selector, #parlamentares-container {
+        width: 95%; /* Em telas menores, eles ocuparão quase toda a largura */
+    }
+}
+
+
+.estado-btn {
+    margin: 5px;
+    padding: 8px 12px;
+    font-size: 14px;
+    cursor: pointer; 
+    border-radius: 0;   
+    border: 0;
+}
+
+.estado-btn:hover {
+    background-color: #d6d6d6; /* Altere a cor do fundo */
+    transform: scale(1.05); /* Adicione um leve aumento de tamanho */
+    transition: background-color 0.3s ease, transform 0.2s; /* Suavizar a transição */
+}
+
+.estado-btn.ativo {
+    background-color: #007bff;
+    color: white;
+}
+
+
+#estado-selector button {
+    margin: 3px;
+    padding: 8px 12px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+
+.parlamentares-area {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+.parlamentares {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+/* CSS para o círculo do parlamentar e o tooltip */
+.parlamentar {
+    position: relative !important; /* Forçar contexto de posicionamento */
+    width: 1.5cm;
+    height: 1.5cm;
+    border-radius: 50%;
+    overflow: visible;
+    display: inline-block;
+    margin: 3px;
+    transition: opacity 0.3s, transform 0.3s;
+}
+
+.parlamentar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.parlamentar.apagado {
+    opacity: 0.3;
+}
+
+#assinou .parlamentar {
+    background-color: #ffffff; /* Verde para "Assinou" */
+}
+
+#nao-assinou .parlamentar {
+    background-color: #ffffff; /* Vermelho para "Não Assinou" */
+}
+
+.parlamentar:hover {
+    outline: 2px solid rgb(204, 204, 204) !important; /* Adiciona uma borda vermelha para teste */
+}
+
+.tooltip {
+    z-index: 9999 !important; /* Força o tooltip a ficar no topo */
+    position: absolute;
+    visibility: hidden !important;
+    opacity: 1 !important;
+    background-color: #333; /* Fundo escuro para teste */
+    color: #fff; /* Texto branco */
+    padding: 5px;
+    bottom: 120%; /* Ajusta a altura para ficar logo acima */
+    left: 50%;
+    transform: translateX(-50%);    
+}
+
+/* Exibe o tooltip ao passar o mouse */
+.parlamentar:hover .tooltip {
+    visibility: visible !important; /* Apenas para teste */;
+    opacity: 1 !important; /* Apenas para teste */;   
+}
+
+/* Triângulo do tooltip */
+.tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%; /* A seta do tooltip abaixo do tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #252525 transparent transparent transparent;
+}
+
+#status-pec {
+    margin-top: 15px;
+    border-radius: 0px;
+    border: 0;
+    width: 80%;
+    max-width: 1000px;
+    text-align: center; /* Centraliza os passos */
+    margin: 20px auto; /* Centraliza horizontalmente */
+
+}
+
+.etapas {
+    background-color: #ffffff;
+    display: flex; /* Alinha as etapas horizontalmente */
+    justify-content: center; /* Centraliza os itens */
+    gap: 10px; /* Espaço entre os passos */
+    flex-wrap: wrap; /* Permite quebrar linha se necessário em telas menores */
+    border-radius: 0px;
+    border: 0;
+}
+
+.etapa {
+    font-family: Helvetica, sans-serif;
+    font-size: 12px; /* Texto menor para compactar */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f7f7f7; /* Fundo branco */
+    color: #333;
+    width: 150px; /* Tamanho fixo ou ajustável */
+    text-align: center;
+    border-radius: 0;
+    border: 0;
+}
+
+.etapa.concluida {
+    background-color: #d4edda; /* Verde claro para etapas concluídas */
+    border-color: #c3e6cb;
+    color: #155724; /* Texto verde escuro */
+    font-weight: bold;
+}

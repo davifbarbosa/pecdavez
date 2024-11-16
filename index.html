@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PEC Escala 6x1</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- Biblioteca PapaParse para processar CSV -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>PEC Escala 6x1 - "Quem não assinou? Quais os próximos passos?"</h1>
+    </header>
+
+    <section id="status-pec">
+        <div class="etapas">
+            <div class="etapa concluida">1. Mínimo de Assinaturas para tramitar (ok)</div>
+            <div class="etapa">2. Aprovação na CCJ (pendente)</div>
+            <div class="etapa">3. Aprovação no Congresso Nacional (pendente)</div>
+            <div class="etapa">4. Aprovação no Senado Federal (pendente)</div>
+            <div class="etapa">5. Promulgação Final (pendente)</div>
+        </div>
+    </section>
+
+    <nav id="filtro-nav">
+        <button id="btn-deputados" class="filtro">Deputados</button>
+        <button id="btn-senadores" class="filtro">Senadores</button>
+        <button id="btn-total-legislativo" class="filtro ativo">Total Legislativo</button>
+    </nav>
+
+    <div class="container">
+
+        <div id="estado-selector">
+            <button class="estado-btn ativo" data-estado="Brasil Todo">Brasil Todo</button>
+            <button class="estado-btn" data-estado="AC">AC</button>
+            <button class="estado-btn" data-estado="AL">AL</button>
+            <button class="estado-btn" data-estado="AP">AP</button>
+            <button class="estado-btn" data-estado="AM">AM</button>
+            <button class="estado-btn" data-estado="BA">BA</button>
+            <button class="estado-btn" data-estado="CE">CE</button>
+            <button class="estado-btn" data-estado="DF">DF</button>
+            <button class="estado-btn" data-estado="ES">ES</button>
+            <button class="estado-btn" data-estado="GO">GO</button>
+            <button class="estado-btn" data-estado="MA">MA</button>
+            <button class="estado-btn" data-estado="MT">MT</button>
+            <button class="estado-btn" data-estado="MS">MS</button>
+            <button class="estado-btn" data-estado="MG">MG</button>
+            <button class="estado-btn" data-estado="PA">PA</button>
+            <button class="estado-btn" data-estado="PB">PB</button>
+            <button class="estado-btn" data-estado="PR">PR</button>
+            <button class="estado-btn" data-estado="PE">PE</button>
+            <button class="estado-btn" data-estado="PI">PI</button>
+            <button class="estado-btn" data-estado="RJ">RJ</button>
+            <button class="estado-btn" data-estado="RN">RN</button>
+            <button class="estado-btn" data-estado="RS">RS</button>
+            <button class="estado-btn" data-estado="RO">RO</button>
+            <button class="estado-btn" data-estado="RR">RR</button>
+            <button class="estado-btn" data-estado="SC">SC</button>
+            <button class="estado-btn" data-estado="SP">SP</button>
+            <button class="estado-btn" data-estado="SE">SE</button>
+            <button class="estado-btn" data-estado="TO">TO</button>
+            <!-- Adicione os outros estados aqui -->
+        </div>
+
+        <div id="parlamentares-container">
+            <div id="assinou" class="parlamentares-area">
+                <h2>Assinou <span id="contador-assinou">(0)</span></h2>
+                <div class="parlamentares">
+                    <div class="tooltip">Nome do Parlamentar<br>Estado - Partido</div>
+                </div>
+            </div>
+            <div id="nao-assinou" class="parlamentares-area">
+                <h2>Não Assinou <span id="contador-nao-assinou">(0)</span></h2>
+                <div class="parlamentares"></div>
+            </div>
+            <div id="outros" class="parlamentares-area">
+                <h2>Outros <span id="contador-outros">(0)</span></h2>
+                <div class="parlamentares"></div>
+            </div>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
